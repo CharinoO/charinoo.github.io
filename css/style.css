@@ -1,0 +1,24 @@
+.dark-bar {
+  /* padding-top: 3.5rem; */
+  background-color: #585858;
+  color: whitesmoke;
+}
+
+.white-bar {
+  background-color: white;
+  text-align: center;
+  padding: 3.5rem;
+}
+/* .skill-bar {
+  background-color: #585858;
+  color: whitesmoke;
+} */
+
+.progress-sm {
+  height: 0.5rem !important;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
